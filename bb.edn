@@ -1,0 +1,6 @@
+{:paths ["."]
+ :deps {cli-matic/cli-matic {:mvn/version "0.5.4"}
+        camel-snake-kebab/camel-snake-kebab {:mvn/version "0.4.2"}
+        io.github.suprematic/globus {:mvn/version "0.2.12"}
+        kixi/stats {:git/url "https://github.com/Cortys/kixi.stats.git"
+                    :git/sha "9ad1f74a25bfb9d4af79f583b2370f23ba6045eb"}}}
